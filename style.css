@@ -1,0 +1,59 @@
+navigation bar{
+    background-color: rgb(126, 163, 163);
+  
+}
+button{
+    color: rgb(130, 222, 77);
+}
+h1{
+    color: rgb(247, 247, 247);
+  
+}
+h3{
+    color: antiquewhite;
+}
+h4{
+    color: rgb(84, 229, 178);
+}
+body{
+    background-color:rgb(126, 163, 163);
+    
+  }
+
+p{
+    color: rgb(0, 0, 0);
+    
+}
+ol{
+    color: rgb(100, 78, 214);
+   
+}
+li{
+    color: rgb(40, 61, 246);
+  
+}
+b{
+    color: blue;
+    
+}
+label{
+    color: chocolate;
+    
+}
+ol{
+    color: chocolate;
+    
+}
+sub{
+    color: coral;
+    ;
+}
+ver{
+    color: darkgreen;
+    
+}
+res{
+    color: darkviolet;
+   
+
+}
